@@ -1,0 +1,10 @@
+
+{
+  "name": "Open Media Archive",
+  "modules": [
+    {
+      "id": "open-media-archive-v1",
+      "packageUrl": "https://github.com/clenfr/synthetiq-open-media/releases/download/v1.0.0/open-media-archive-synthetiq-v1.zip"
+    }
+  ]
+}
